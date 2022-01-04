@@ -1,5 +1,8 @@
 # Algorithms-Bubble-Selection-Insertion
 
+
+# BUBBLE SORT
+
     Bubble sort works by repeatedly swapping the adjacent element if they are in wrong order
     worst case --> when array is sorted in reverse order --> O(n^2)
     best case --> when array is already sorted --> O(n);
