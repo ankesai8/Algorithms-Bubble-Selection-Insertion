@@ -24,7 +24,8 @@
     
 # SELECTION SORT
 
-    It works by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning.
+    It works by repeatedly finding the minimum element (considering ascending order) 
+       from unsorted part and putting it at the beginning.
     Time --> O(n^2)
     Space --> O(1)
     It never makes more than O(n) swaps, can be used when memory write is a costly operation --> ADV
